@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Riscared
 - 👀 I’m interested in IT and cybersecurity.
 - 🌱 I’m currently learning Information Technology.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <here>.
+- 💞️ I’m looking to collaborate on something. 
+- 📫 How to reach me - here :D.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like Fridays.
 
